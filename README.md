@@ -52,8 +52,7 @@ Decentralised-Social-Media-Website
 
 
 
-Ref 1: Nmap Scan Results  
-This screenshot shows the results of a network scan using Nmap, identifying open ports and services on the target machine.
+Ref 1: Diag;  
 
 ![Nmap Scan](link-to-image)
 
