@@ -54,7 +54,7 @@ Decentralised-Social-Media-Website
 
 Ref 1: Diag;  
 
-![Nmap Scan](link-to-image)
+![Nmap Scan](https://github.com/allansebastian2002-eng/Decentralised-Social-Media-Website/blob/main/image.png)
 
 
 
