@@ -5,7 +5,7 @@ Decentralised-Social-Media-Website
 ## Objective
 - To create a free to use decentralized blockchain based social media website.
 - Create an advertisement free environment for the users 
-- All the data of the users will be protected and cannot be sold to third party sites.
+- All the data of the users will be p rotected and cannot be sold to third party sites.
 - To create a decentralized social media platform.
 - The website will help people connect with each other and share their thoughts without compromising on their privacy or having to deal with advertisements.
 
@@ -56,7 +56,6 @@ Ref 1: Diag;
 
 ![Nmap Scan](https://github.com/allansebastian2002-eng/Decentralised-Social-Media-Website/blob/main/image.png)
 
-Ref 2 : Diag;
-![nmap  scan]()
+
 
 
